@@ -1,4 +1,6 @@
- # Hi there 👋 I'm SURAJ SP
+<p align="center">
+ <strong># Hi there 👋 I'm SURAJ S P</strong><br>
+</p>
 
 > Python developer & Data enthusiast | Building data-driven applications with Python Frameworks, Ai & cloud technologies | MCA graduate eager to solve real-world problems
 
