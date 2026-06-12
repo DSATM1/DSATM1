@@ -16,67 +16,9 @@ Results-driven **MCA graduate** (8.52 CGPA from Dayananda Sagar Academy of Techn
 - 💬 Ask me about: Python, Frameworks, Data Analysis, Database Design, Web Development
 - 📫 Reach me: [surajsppokale@gmail.com](mailto:surajsppokale@gmail.com) | +91 7975627135
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `JavaScript` `Node.js` `HTML/CSS`
-
-**Databases & Data:**  
-`MySQL` `MongoDB` `SQL` `Pandas` `NumPy` `Excel`
-
-**Data & Analytics:**  
-`Power BI` `Data Visualization` `Exploratory Data Analysis` `Business Intelligence`
-
-**Tools & Platforms:**  
-`Git/GitHub` `VS Code` `Linux/Unix` `Docker` `AWS` `Azure` `Google Cloud`
-
-**Core Competencies:**  
-`Full-Stack Web Development` `Data Analytics` `Database Design` `OOP` `Data Structures & Algorithms` `SDLC` `Agile` `CI/CD Pipelines` `Unit Testing`
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [DataLens – Business Intelligence Dashboard](https://github.com/DSATM1/datalens)
-Interactive web application where users upload CSV/Excel files and instantly get visual analytics, charts, and actionable insights. Built with a Python backend, Node.js server, and MySQL database.  
-**Tech Stack:** Python · Pandas · NumPy · Node.js · MySQL · Power BI · HTML/CSS/JS
-
-### 💼 [E-Commerce Platform](https://github.com/DSATM1/ecommerce-website)
-Fully functional online shopping platform with product listing, shopping cart, order management, and admin panel for inventory control.  
-**Tech Stack:** Node.js · MongoDB · MySQL · HTML/CSS/JS
-
-### 👥 [Real-Time Chat Application](https://github.com/DSATM1/realtime-chat-app)
-Real-time messaging system supporting private and group conversations with user authentication and persistent message history.  
-**Tech Stack:** Node.js · MongoDB · Socket.io · HTML/CSS/JS
-
-### 📚 [Student Management System](https://github.com/DSATM1/student-management)
-Full-stack application for managing student records, attendance, and grades with role-based access control.  
-**Tech Stack:** Node.js · MySQL · HTML/CSS/JS
-
-### 💰 [Expense Tracker App](https://github.com/DSATM1/expense-tracker)
-Personal finance web app for tracking income/expenses with category-wise summaries and monthly financial reports.  
-**Tech Stack:** Node.js · MongoDB · HTML/CSS/JS
-
----
-
-## 📈 Key Achievements
-
-- 🏆 **Published Research:** Paper accepted at IEEE International Conference on Computational Innovations and Sustainable Technologies (ICCIST 2025)  
-  *"Adaptive Route Optimization with Predictive Weather Insights via Machine Learning"*
-
-- 🎓 **Strong Academic Foundation:** MCA (8.52 CGPA) + BCA (7.21 CGPA)
-
-- 📊 **Data Analytics Expertise:** Completed NASSCOM Foundation's intensive Data Analytics Training Program with real-world datasets
-
-- 🎯 **Certifications:** Google UX Design Professional Certificate · Spring Boot Design Thinking Certificate · NPTEL Public Speaking Certificate
-
----
-
 ## 💻 What I Do Best
 
-✅ **Full-Stack Web Development** — End-to-end application design, backend APIs, and responsive frontends  
+✅ **Python Programming** — End-to-end application design, backend APIs, and responsive frontends using frameworks  
 ✅ **Data Analytics & Visualization** — Transform raw data into meaningful insights with Power BI dashboards  
 ✅ **Database Design** — Efficient schema design for MySQL and NoSQL databases  
 ✅ **Problem-Solving** — Breaking down complex requirements into clean, maintainable solutions  
