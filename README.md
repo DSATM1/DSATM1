@@ -143,14 +143,14 @@ Areas I've worked on and explored:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DSATM1&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSATM1&layout=compact&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/DSATM1">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DSATM1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</a>
+<a href="https://github.com/DSATM1">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSATM1&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+</a>
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
