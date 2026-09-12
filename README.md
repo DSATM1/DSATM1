@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://github.com/DSATM1">
-    <img src="https://img.shields.io/badge/GitHub-DSATM1-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-DSATM1-181717?style=for-the-badgelogo=github" alt="GitHub">
   </a>
   <a href="mailto:surajsppokale@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
