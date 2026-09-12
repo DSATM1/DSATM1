@@ -152,9 +152,6 @@ Areas I've worked on and explored:
 ---
 
 ## 🤝 Let's Connect
----
-
-## 🤝 Let's Connect
 
 <div align="center">
 
