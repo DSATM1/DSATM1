@@ -1,19 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **SURAJ S P**
+<a href="https://github.com/DSATM1">
+  <img src="https://img.shields.io/badge/GitHub-DSATM1-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="mailto:surajsppokale@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=googlemaps" alt="Location">
 
-### 💻 Software Engineer Intern (SDE) @ Algo365
-**MCA Graduate • Java • DSA • Backend • Software Engineering**
-
-<p>
-  <a href="https://github.com/DSATM1">
-    <img src="https://img.shields.io/badge/GitHub-DSATM1-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:surajsppokale@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=googlemaps" alt="Location">
-</p>
+</div>
 
 </div>
 
