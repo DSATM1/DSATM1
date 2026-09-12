@@ -64,18 +64,7 @@ As an **SDE Intern @ Algo365**, I'm focused on strengthening my engineering skil
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Backend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -83,14 +72,6 @@ As an **SDE Intern @ Algo365**, I'm focused on strengthening my engineering skil
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data & AI/ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-Machine Learning fundamentals · Data preprocessing · Exploratory Data Analysis · AI-powered applications · ML model integration · Data visualization
 
 ### 🔧 Tools
 
@@ -121,13 +102,13 @@ Areas I've worked on and explored:
 
 ### Master of Computer Applications — MCA
 
-**Dayananda Sagar Academy of Technology and Management (DSATM)**
+Dayananda Sagar Academy of Technology and Management (DSATM)
 
 `2025` · **8.52 CGPA**
 
 ### Bachelor of Computer Applications — BCA
 
-**Sree Siddaganga College of Arts, Science and Commerce (SSCASC)**
+Sree Siddaganga College of Arts, Science and Commerce (SSCASC)
 
 `2023` · **7.21 CGPA**
 
